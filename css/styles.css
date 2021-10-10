@@ -10,7 +10,6 @@ body {
 .template {
   background-color: white;
   text-align: center;
-  height: auto;
-  width: auto;
-  position: absolute;
+  margin: auto;
+  max-width: 30rem;
 }
